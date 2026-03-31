@@ -19,3 +19,4 @@ Compte rendu individuels de chaque membres
 * [Laurine Camuset](Laurine%20Camuset-B2-INFO.pdf)
 * [Loïc Delprat](Loïc%20Delprat-B2-INFO.pdf)
 * [Lucas Lasbennes](Lucas%20Lasbennes-B2-INFO.pdf)
+* [Ylan Dessenne](Ylan%Dessenne-B2-INFO.pdf)
